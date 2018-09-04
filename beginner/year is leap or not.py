@@ -1,5 +1,5 @@
-x=2016
+x=int(input("n="))
 if(x%4==0):
-  print("leap year")
+    print("leap year")
 else:
-  print("not leap year")
+    print("not leap year")
