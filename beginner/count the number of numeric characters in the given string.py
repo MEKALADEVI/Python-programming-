@@ -1,4 +1,4 @@
-string=input("Enter string:")
+string="Hellloworld.123"
 count=0
 for i in string:
       if(i.isdigit()):
