@@ -1,5 +1,5 @@
-s1=input("n=")
-s2=input("m=")
+s1="hello"
+s2="world"
 l=len(s1)
 w=len(s2)
 if(l==w):
