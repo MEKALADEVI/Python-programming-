@@ -1,2 +1,2 @@
-string='hello world'
+string=(input("n="))
 print(string)
